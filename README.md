@@ -6,7 +6,7 @@ Script to fetch emails of the given username
 1. Install the required dependencies.
    ``` pip3 install -r requirements.txt ```
 2. Make a .env file for github key configuration.
-   ``` GH_SAML_TOKEN = <your_github_token>
+   ``` GH_SAML_TOKEN = <your_github_token> ```
 
 ## Usage
 
